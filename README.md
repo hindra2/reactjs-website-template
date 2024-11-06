@@ -1,6 +1,4 @@
-# Personal Website
-
-This is the repository for my personal website
+# React + Vite template
 
 ## Development
 Setup
@@ -15,5 +13,6 @@ Usage
 npm run dev
 vite build
 ```
-Setup gh-pages
+
+Setup gh-pages \
 https://github.com/gitname/react-gh-pages
